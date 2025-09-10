@@ -1,17 +1,14 @@
 # Varsha-Rajgaria-
-Hello and welcome! 👋
-Thanks for stopping by my GitHub!
-I’m on an exciting journey of building my skills in data analytics, dashboards, and problem-solving—all while finding creative ways to make complex information look simple and beautiful.
+Hello and welcome! 👋 Thanks for stopping by my GitHub! I’m on an exciting journey of building my skills as an Analyst—bringing together my background in commerce and marketing with a growing focus on business insights, reporting, and problem-solving. My goal is to explore how business knowledge, structured thinking, and clear communication come together to support better decision-making.
 
 Here’s what you can explore here:
 
-📊 Interactive dashboards I’ve created to turn raw data into clear insights
+📊 Reports & dashboards I’ve created to track KPIs, monitor performance, and make information easier to interpret
+📚 Learning projects where I practice tools like Excel, SQL, and Power BI to organize data and highlight meaningful patterns
+💡 Business insights & experiments where I apply analytical thinking to real-world scenarios and sharpen my problem-solving approach
 
-📚 Learning projects that showcase my growth in tools like Power BI, Excel, and more
+This space is all about sharing my learning journey, process, and passion for turning numbers into meaningful stories. I believe that analysis is not just about calculations—it’s about asking the right questions, finding clarity, and creating solutions that help businesses grow.
 
-💡 Ideas & experiments where I try out new techniques and visual storytelling methods
-
-This space is all about sharing my learning, my process, and my passion for turning data into impact.
-If you enjoy analytics, design, or just making sense of the chaos—stick around, we might have a lot in common!
+If you’re interested in analysis, business problem-solving, or simplifying complex information—stick around, we might have a lot in common!
 
 Let’s keep learning and building together 🚀 
